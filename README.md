@@ -1,12 +1,14 @@
-### Hi there, I'm Harshil Koladiya! 👋
+### Hola , I'm Harshil Koladiya! 👋
 
-I'm a digital professional with a passion for coding and creating impactful digital experiences. Here's a bit about my coding journey:
+I'm a frontend developer with a keen interest in AI and machine learning. Here's how I'm shaping the digital world:
 
-- 👨‍💻 I'm proficient in HTML, CSS, JavaScript, Python, and have experience with frameworks like React and Vue.js.
-- 🌱 Currently, I'm diving deeper into data science, exploring machine learning algorithms and data visualization techniques.
-- 💼 I've contributed to various projects including web development, UI/UX design, and digital marketing campaigns.
-- 📚 I hold an MS in Interactive Digital Media with coursework in web authoring, data structures & algorithms, and more.
-- 📫 Reach out to me via email at harshil.koladiya027@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/harshilkoladiya).
-- ⚡ Fun fact: I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my spare time!
+- 👨‍💻 I specialize in frontend technologies like HTML, CSS, JavaScript, React, and Vue.js, crafting intuitive user interfaces.
+- 🤖 I'm fascinated by AI and machine learning, exploring applications in areas like natural language processing and computer vision.
+- 🌱 Currently, I'm diving deeper into AI algorithms and exploring frameworks like TensorFlow and PyTorch.
+- 💼 I've contributed to projects blending frontend development with AI integration, creating intelligent and user-friendly applications.
+- 🎓 I hold an MS in Interactive Digital Media with coursework in web authoring, data structures & algorithms, and AI applications.
+- 📫 Reach out to me via email at [Email](harshil.koladiya027@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/harshilkoladiya).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love experimenting with creative AI projects and building interactive web experiences that push boundaries!
 
-<!-- Let's connect and code something amazing together! -->
+<!-- Let's connect and innovate together at the intersection of frontend development and AI! -->
