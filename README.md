@@ -2,7 +2,7 @@
 
 I'm a passionate digital professional based in Mumbai, India, with a strong interest in frontend development, AI, and machine learning. Here's a glimpse into my coding journey:
 
-- 💻 Proficient in frontend technologies like HTML, CSS, JavaScript, React, and Vue.js, I'm dedicated to crafting intuitive and elegant user interfaces.
+- 💻 Proficient in frontend technologies like HTML, CSS, JavaScript, React, and Next.js, I'm dedicated to crafting intuitive and elegant user interfaces.
 - 🤖 Fascinated by AI and machine learning, I'm currently diving deeper into these fields, exploring applications in areas like natural language processing and computer vision.
 - 🌱 Actively learning and experimenting with AI algorithms and frameworks like TensorFlow and PyTorch to enhance my understanding and skills in this exciting domain.
 - 💼 In my previous roles, I've leveraged my coding expertise to contribute to projects blending frontend development with AI integration, creating intelligent and user-friendly applications.
