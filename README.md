@@ -1,3 +1,5 @@
+![Banner]([https://example.com/your-banner-image.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dforks&psig=AOvVaw31zwjsIgFkioG6SHAAK-gR&ust=1714222756973000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKCL8cX334UDFQAAAAAdAAAAABAE))
+
 # Hi there, I'm Harshil Koladiya! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/har27il?style=social)
@@ -12,4 +14,3 @@ I'm a passionate frontend developer and aspiring AI enthusiast based in Mumbai, 
 📫 **Contact:** Email me at harshil.koladiya027@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/harshilkoladiya).
 
 Let's connect and innovate together in the digital world!
-
