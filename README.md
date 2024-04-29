@@ -60,6 +60,37 @@
 <img align="right" src="https://img.shields.io/badge/Adobe_Suite-FF0000?logo=adobe&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Testing-FF6F61?logo=circleci&logoColor=white" />
 
-- 👨‍💻 **Digital Marketer**\
+- 👨‍💻 **Digital Marketer Manager**\
 📆 December/2019 - June/2022\
 📍 **Memechat** - Gurgaon, India
+
+<img align="right" src="https://img.shields.io/badge/Digital_Marketing-34A853?logo=digitalocean&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SEO-47A248?logo=google&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Google_Analytics-E37400?logo=google-analytics&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Adobe_Suite-FF0000?logo=adobe&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Testing-FF6F61?logo=circleci&logoColor=white" />
+
+- 👨‍💻 **Digital Marketing Executive**\
+📆 February/2020 - August/2020\
+📍 **RetailCore Software** - Surat, India
+
+<img align="right" src="https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+
+- 👨‍💻 **Content Creator / Video Editor**\
+📆 January/2021 - August/2021\
+📍 **Neverthink** - Helsinki, Finland
+
+<img align="right" src="https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+
+
+- 👨‍💻 **VFX Artist**\
+📆 June/2020 - May/2021\
+📍 **Cowbelly Studio** - Miami, USA
