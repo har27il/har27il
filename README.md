@@ -1,96 +1,60 @@
-![GIF](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+# Hi, I'm Harshil Koladiya 👨‍💻
 
+**Operations analyst** | **Python automation** | **Product analytics** | **AI/ML enthusiast**
 
-<h1 align='center'>
-  Hola, I'm Harshil Koladiya! 👨‍💻
-</h1>
+Based in **Dublin, Ireland** 🇮🇪
 
-<p align='center'>
-  I'm a passionate frontend developer and aspiring AI enthusiast based in Mumbai, India.
-</p>
+---
 
-<p align='center'>
-  <a href="https://harshilsportfolio.webflow.io">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshil-koladiya/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-</p>
+## 🎯 About Me
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=har27il&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+I build **Python pipelines** that scale. Currently focused on payment operations, product analytics, and LLM-integrated automation. I've processed 3,300+ jobs daily with live production pipelines and improved product metrics by 10–18% through data-driven decisions.
 
-🚀 **Currently:** Exploring the intersections of frontend development, AI, and machine learning.
+**Current role:** Associate Direct Advisor (Risk & Operations) at Bank of Ireland
 
-🎓 **Education:** MS in Interactive Digital Media from Griffith College Dublin.
+---
 
-💼 **Experience:** Junior Product Manager at MemeChat App, former Digital Marketing Manager, Content Creator, and VFX Artist.
+## 💼 What I Do
 
-📫 **Contact:** Email me at harshil.koladiya027@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/harshilkoladiya).
+- **Automation & LLM Engineering** — Python, REST APIs (Greenhouse, Reed, Lever, Notion, NVIDIA NIM), structured JSON outputs
+- **Analytics** — Funnel analysis, A/B testing, behavioural insights, KPI tracking
+- **Operations** — SEPA workflows, compliance, rule-aligned decisioning
+- **Product Delivery** — Backlog management, Scrum, cross-functional collaboration
 
-<details>
-  <summary>📃 Resume</summary>
+---
 
-## Education
+## 📚 Experience Snapshot
 
-- 📖 **Masters in Interactive Digital Media and Computer Science**\
-📆 2022 - 2023\
-📍 **Griffith College Dublin** - Dublin, Ireland
+| Role | Company | Period |
+|------|---------|--------|
+| Associate Direct Advisor (Risk & Ops) | Bank of Ireland (CPL) | Sep 2025 – Jan 2026 |
+| Product Assistant (Loss Prevention) | Chemist Warehouse Ireland | Aug 2024 – Sep 2025 |
+| Junior Product Manager | MemeChat | Dec 2023 – Jul 2024 |
+| Digital Marketing Executive | MemeChat & RetailCore | 2019 – 2022 |
 
-## Experience
+---
 
-<img align="right" src="https://img.shields.io/badge/Adobe_XD-FF26BE?logo=adobe-xd&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Digital_Marketing-34A853?logo=digitalocean&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SEO-47A248?logo=google&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Google_Analytics-E37400?logo=google-analytics&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe_Suite-FF0000?logo=adobe&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Testing-FF6F61?logo=circleci&logoColor=white" />
+## 🚀 Featured Project
 
+**Minions** — Job Intelligence Pipeline  
+Live Python automation processing 3,300+ jobs daily  
+*Stack: Python 3.11, REST APIs, NVIDIA NIM, Notion, ReportLab*
 
-- 👨‍💻 **Junior Product Manager**\
-📆 December.2023 - May.2024\
-📍 **Memechat** - Gurgaon, India
+---
 
-<img align="right" src="https://img.shields.io/badge/Digital_Marketing-34A853?logo=digitalocean&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SEO-47A248?logo=google&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Google_Analytics-E37400?logo=google-analytics&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe_Suite-FF0000?logo=adobe&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Testing-FF6F61?logo=circleci&logoColor=white" />
+## 🎓 Education
 
-- 👨‍💻 **Digital Marketer Manager**\
-📆 December/2019 - June/2022\
-📍 **Memechat** - Gurgaon, India
+- **MS in Interactive Digital Media** — Griffith College Dublin (2022–2023)
+- **BS in Mass Media** — S.K. Somaiya College, Mumbai (2018–2021)
 
-<img align="right" src="https://img.shields.io/badge/Digital_Marketing-34A853?logo=digitalocean&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/SEO-47A248?logo=google&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Google_Analytics-E37400?logo=google-analytics&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Adobe_Suite-FF0000?logo=adobe&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Testing-FF6F61?logo=circleci&logoColor=white" />
+---
 
-- 👨‍💻 **Digital Marketing Executive**\
-📆 February/2020 - August/2020\
-📍 **RetailCore Software** - Surat, India
+## 🔗 Connect
 
-<img align="right" src="https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
+- **Email:** harshil.koladiya027@gmail.com
+- **LinkedIn:** [linkedin.com/in/harshil-koladiya](https://www.linkedin.com/in/harshil-koladiya/)
+- **Portfolio:** [harshilsportfolio.webflow.io](https://harshilsportfolio.webflow.io)
 
-- 👨‍💻 **Content Creator / Video Editor**\
-📆 January/2021 - August/2021\
-📍 **Neverthink** - Helsinki, Finland
+---
 
-<img align="right" src="https://img.shields.io/badge/Premiere_Pro-9999FF?logo=adobe-premiere-pro&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/After_Effects-9999FF?logo=adobe-after-effects&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Illustrator-FF9A00?logo=adobe-illustrator&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white" />
-
-
-- 👨‍💻 **VFX Artist**\
-📆 June/2020 - May/2021\
-📍 **Cowbelly Studio** - Miami, USA
+*Always learning. Always building. 🚀*
