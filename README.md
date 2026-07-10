@@ -22,7 +22,7 @@ python minions/pipeline.py --source greenhouse --output notion
 
 ### Contributions
 
-<img src="https://github.com/users/har27il/contributions" alt="har27il's GitHub contribution graph" width="100%">
+<img src="https://raw.githubusercontent.com/har27il/har27il/output/assets/contribution-graph.svg" alt="har27il's GitHub contribution graph" width="100%">
 
 ---
 
