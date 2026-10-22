@@ -17,4 +17,4 @@ I like to check the data before anyone builds on it. My background is SEPA payme
 
 **Tools:** SQL · Excel · Python (working knowledge) · REST APIs · Git · GitHub Actions
 
-[LinkedIn](https://www.linkedin.com/in/harshil-koladiya/) · harshil.koladiya027@gmail.com
+[LinkedIn](https://www.linkedin.com/in/harshil-koladiya/) 
